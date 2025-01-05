@@ -1,4 +1,14 @@
 I am in ECES!!
 Hello!!
 
+<<<<<<< Updated upstream
 this is the year 2025
+=======
+
+
+stash tryyy
+>>>>>>> Stashed changes
+
+
+
+sejnn
